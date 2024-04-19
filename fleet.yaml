@@ -5,4 +5,4 @@
 # are configured with a namespace so this default will apply
 
 
-defaultNamespace: argocd
+defaultNamespace: argocd-001
